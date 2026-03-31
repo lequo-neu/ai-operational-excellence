@@ -64,9 +64,9 @@ data/*.csv
 !data/.gitkeep
 
 # Output files (generated)
-outputs/*.png
-outputs/*.html
-outputs/*.xlsx
+# outputs/*.png
+# outputs/*.html
+# outputs/*.xlsx
 !outputs/.gitkeep
 
 # Logs
